@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val testVariable = 1
         println("master branch")
+        println("test branch")
     }
 }
